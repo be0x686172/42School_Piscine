@@ -6,7 +6,7 @@
 /*   By: abderahmane.behar-rahala <abderahmane.beh  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/24 17:32:24 by abderahmane.b     #+#    #+#             */
-/*   Updated: 2025/07/25 11:46:40 by abderahmane.b    ###   ########.fr       */
+/*   Updated: 2025/07/29 07:40:00 by abderahmane.b    ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,10 +29,6 @@ void	ft_separation(int a, int b)
 	{
 		ft_putchar(',');
 		ft_putchar(' ');
-	}
-	else
-	{
-		ft_putchar('\n');
 	}
 }
 
